@@ -1,4 +1,4 @@
-#🌾 Bindisa Agritech - Complete Frontend Setup
+# 🌾 Bindisa Agritech - Complete Frontend Setup
 
 Welcome to the Bindisa Agritech website repository! This guide will help you set up the project locally using **VS Code**.
 
